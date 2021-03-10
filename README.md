@@ -16,3 +16,7 @@
     ./target/release/grrs -g
     Hello, from Rust!
 ```
+
+### Binary usage
+
+Go to the directory where you have stored the binary file and then run `./grrs -g` or `./grrs --greeting`
